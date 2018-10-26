@@ -1,0 +1,1 @@
+# PHP Palindrome Test

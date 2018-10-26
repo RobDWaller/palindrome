@@ -1,0 +1,13 @@
+{
+    "name": "rbdwllr/palindrome",
+    "description": "A library that fulfills a PHP palindrome test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RobDWaller",
+            "email": "rdwaller1984@googlemail.com"
+        }
+    ],
+    "require": {}
+}
