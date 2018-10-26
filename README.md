@@ -36,4 +36,4 @@ php > exit
 
 ## Author
 
-[RobDWaller]('https://twitter.com/RobDWaller')
+[RobDWaller](https://twitter.com/RobDWaller)
