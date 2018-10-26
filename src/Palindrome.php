@@ -15,7 +15,7 @@ class Palindrome
     /**
      * Lowercase inputed word, compares original word against a reverse of the
      * word. If they match then the method returns true as the word is a
-     * palindrome. 
+     * palindrome.
      *
      * @param string $word
      * @return bool

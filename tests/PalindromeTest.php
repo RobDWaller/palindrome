@@ -6,7 +6,7 @@ use App\Palindrome;
 
 use PHPUnit\Framework\TestCase;
 
-class PalindromTest extends TestCase
+class PalindromeTest extends TestCase
 {
     public function testPalindrome()
     {
