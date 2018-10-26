@@ -14,4 +14,11 @@ class PalindromTest extends TestCase
 
         $this->assertInstanceOf(Palindrome::class, $palindrome);
     }
+
+    public function testIsPalindrome()
+    {
+        $palindrome = new Palindrome;
+
+        $this->assertTrue($palindrome->isPalindrome("Deleveled"));
+    }
 }
