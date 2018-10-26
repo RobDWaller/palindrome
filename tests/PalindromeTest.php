@@ -2,14 +2,16 @@
 
 namespace Tests;
 
+use App\Palindrome;
+
 use PHPUnit\Framework\TestCase;
 
 class PalindromTest extends TestCase
 {
     public function testPalindrome()
     {
-        $var1 = true;
+        $palindrome = new Palindrome;
 
-        $this->assertTrue($var1);
+        $this->assertInstanceOf(Palindrome::class, $palindrome);
     }
 }
