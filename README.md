@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/RobDWaller/palindrome.svg?branch=master)](https://travis-ci.org/RobDWaller/palindrome) [![codecov](https://codecov.io/gh/RobDWaller/palindrome/branch/master/graph/badge.svg)](https://codecov.io/gh/RobDWaller/palindrome) [![StyleCI](https://github.styleci.io/repos/154809814/shield?branch=master)](https://github.styleci.io/repos/154809814)
 # PHP Palindrome Test
 
 This is a simple library that passes a palindrome string check test in PHP.
